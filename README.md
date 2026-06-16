@@ -1,4 +1,4 @@
-# CodingPlan Menu Bar
+# ArkCodingPlanTray
 
 一个轻量级的 macOS 菜单栏应用，让你随时查看 CodingPlan（火山引擎 ARK）的使用情况。
 
@@ -29,14 +29,14 @@ brew install xcodegen
 ### 2. 生成 Xcode 项目
 
 ```bash
-cd CodingPlanMenuBar
+cd ArkCodingPlanTray
 xcodegen generate
 ```
 
 ### 3. 构建并运行
 
 ```bash
-xcodebuild -project CodingPlanMenuBar.xcodeproj -scheme CodingPlanMenuBar build
+xcodebuild -project ArkCodingPlanTray.xcodeproj -scheme ArkCodingPlanTray build
 ```
 
 或者在 Xcode 中打开项目，按 `Cmd+R` 运行。
@@ -81,7 +81,7 @@ xcodebuild -project CodingPlanMenuBar.xcodeproj -scheme CodingPlanMenuBar build
 ## 项目架构
 
 ```
-CodingPlanMenuBar/
+ArkCodingPlanTray/
 ├── App/              # 应用入口和 AppDelegate
 ├── Models/           # 数据模型（CodingPlanUsage, QuotaUsage）
 ├── Views/            # SwiftUI 视图和 NSPanel
@@ -101,4 +101,4 @@ CodingPlanMenuBar/
 
 ## 许可证
 
-版权所有 © 2026 CodingPlan。保留所有权利。
+版权所有 © 2026 ArkCodingPlanTray。保留所有权利。

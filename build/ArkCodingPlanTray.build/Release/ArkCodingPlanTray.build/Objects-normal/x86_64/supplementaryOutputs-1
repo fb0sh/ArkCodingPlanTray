@@ -1,0 +1,12 @@
+{
+  "/Users/fb0sh/Downloads/ArkCodingPlanTray/CodingPlanMenuBar/Models/APIError.swift" : {
+    "abi-baseline-json" : "/Users/fb0sh/Downloads/ArkCodingPlanTray/CodingPlanMenuBar/build/ArkCodingPlanTray.build/Release/ArkCodingPlanTray.build/Objects-normal/x86_64/ArkCodingPlanTray.abi.json",
+    "const-values" : "/Users/fb0sh/Downloads/ArkCodingPlanTray/CodingPlanMenuBar/build/ArkCodingPlanTray.build/Release/ArkCodingPlanTray.build/Objects-normal/x86_64/ArkCodingPlanTray-primary.swiftconstvalues",
+    "dependencies" : "/Users/fb0sh/Downloads/ArkCodingPlanTray/CodingPlanMenuBar/build/ArkCodingPlanTray.build/Release/ArkCodingPlanTray.build/Objects-normal/x86_64/ArkCodingPlanTray-primary.d",
+    "diagnostics" : "/Users/fb0sh/Downloads/ArkCodingPlanTray/CodingPlanMenuBar/build/ArkCodingPlanTray.build/Release/ArkCodingPlanTray.build/Objects-normal/x86_64/ArkCodingPlanTray-primary.dia",
+    "objc-header" : "/Users/fb0sh/Downloads/ArkCodingPlanTray/CodingPlanMenuBar/build/ArkCodingPlanTray.build/Release/ArkCodingPlanTray.build/Objects-normal/x86_64/ArkCodingPlanTray-Swift.h",
+    "swiftdoc" : "/Users/fb0sh/Downloads/ArkCodingPlanTray/CodingPlanMenuBar/build/ArkCodingPlanTray.build/Release/ArkCodingPlanTray.build/Objects-normal/x86_64/ArkCodingPlanTray.swiftdoc",
+    "swiftmodule" : "/Users/fb0sh/Downloads/ArkCodingPlanTray/CodingPlanMenuBar/build/ArkCodingPlanTray.build/Release/ArkCodingPlanTray.build/Objects-normal/x86_64/ArkCodingPlanTray.swiftmodule",
+    "swiftsourceinfo" : "/Users/fb0sh/Downloads/ArkCodingPlanTray/CodingPlanMenuBar/build/ArkCodingPlanTray.build/Release/ArkCodingPlanTray.build/Objects-normal/x86_64/ArkCodingPlanTray.swiftsourceinfo"
+  }
+}

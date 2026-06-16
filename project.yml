@@ -11,7 +11,7 @@ settings:
   MACOSX_DEPLOYMENT_TARGET: "13.0"
 
 targets:
-  CodingPlanMenuBar:
+  ArkCodingPlanTray:
     type: application
     platform: macOS
     sources:

@@ -1,0 +1,15 @@
+/Users/fb0sh/Downloads/ArkCodingPlanTray/CodingPlanMenuBar/Models/APIError.swift
+/Users/fb0sh/Downloads/ArkCodingPlanTray/CodingPlanMenuBar/Services/APIRequestBuilder.swift
+/Users/fb0sh/Downloads/ArkCodingPlanTray/CodingPlanMenuBar/App/AppDelegate.swift
+/Users/fb0sh/Downloads/ArkCodingPlanTray/CodingPlanMenuBar/ViewModels/AppViewModel.swift
+/Users/fb0sh/Downloads/ArkCodingPlanTray/CodingPlanMenuBar/Services/CodingPlanClient.swift
+/Users/fb0sh/Downloads/ArkCodingPlanTray/CodingPlanMenuBar/Models/CodingPlanModels.swift
+/Users/fb0sh/Downloads/ArkCodingPlanTray/CodingPlanMenuBar/Services/KeychainStore.swift
+/Users/fb0sh/Downloads/ArkCodingPlanTray/CodingPlanMenuBar/Utilities/LocalEventReceiver.swift
+/Users/fb0sh/Downloads/ArkCodingPlanTray/CodingPlanMenuBar/Views/PopoverContentView.swift
+/Users/fb0sh/Downloads/ArkCodingPlanTray/CodingPlanMenuBar/Views/PopoverPanel.swift
+/Users/fb0sh/Downloads/ArkCodingPlanTray/CodingPlanMenuBar/Settings/SettingsView.swift
+/Users/fb0sh/Downloads/ArkCodingPlanTray/CodingPlanMenuBar/Settings/SettingsWindowController.swift
+/Users/fb0sh/Downloads/ArkCodingPlanTray/CodingPlanMenuBar/Views/StatusBarRenderer.swift
+/Users/fb0sh/Downloads/ArkCodingPlanTray/CodingPlanMenuBar/Services/UserDefaultsSettingsStore.swift
+/Users/fb0sh/Downloads/ArkCodingPlanTray/CodingPlanMenuBar/App/main.swift
