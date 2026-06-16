@@ -1,0 +1,38 @@
+name: ArkCodingPlanTray
+options:
+  bundleIdPrefix: com.fb0sh
+  deploymentTarget:
+    macOS: "13.0"
+  xcodeVersion: "15.0"
+
+settings:
+  SWIFT_VERSION: "6.0"
+  SWIFT_STRICT_CONCURRENCY: complete
+  MACOSX_DEPLOYMENT_TARGET: "13.0"
+
+targets:
+  CodingPlanMenuBar:
+    type: application
+    platform: macOS
+    sources:
+      - path: .
+        excludes:
+          - "project.yml"
+          - "README.md"
+    settings:
+      PRODUCT_BUNDLE_IDENTIFIER: com.fb0sh.ArkCodingPlanTray
+      INFOPLIST_FILE: Resources/Info.plist
+      CODE_SIGN_STYLE: Automatic
+      SWIFT_VERSION: "6.0"
+      ENABLE_HARDENED_RUNTIME: true
+      DEVELOPMENT_TEAM: ""
+    dependencies: []
+    preBuildScripts:
+      - name: "SwiftLint"
+        script: |
+          if which swiftlint >/dev/null; then
+            swiftlint
+          else
+            echo "warning: SwiftLint not installed"
+          fi
+        basedOnDependencyAnalysis: false
