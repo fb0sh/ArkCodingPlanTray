@@ -2,6 +2,16 @@
 
 一个轻量级的 macOS 菜单栏应用，让你随时查看 CodingPlan（火山引擎 ARK）的使用情况。
 
+<img width="565" height="76" alt="image" src="https://github.com/user-attachments/assets/82b84980-2992-4fc0-9a50-52deb8093c54" />
+
+<img width="439" height="323" alt="image" src="https://github.com/user-attachments/assets/ec0a5f25-1560-42ad-8af9-ae5a7807ce99" />
+
+<img width="450" height="359" alt="image" src="https://github.com/user-attachments/assets/04353455-3bd9-4d96-900e-750807bc5d32" />
+
+<img width="533" height="434" alt="image" src="https://github.com/user-attachments/assets/b0b76f08-7593-4712-9f05-03e5ee84ae22" />
+
+
+
 ## 功能特点
 
 - **菜单栏图标** — 点击打开使用量弹窗，再次点击关闭
